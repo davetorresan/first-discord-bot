@@ -12,5 +12,6 @@ How to use this files:
   - 8. Open your terminal and write: "python3 -m pip install -U discord.py"  click enter, after wrtite "pip install python-dotenv" click enter.
   - 9. Now you can write in your terminal "python main.py" and click enter and your bot is succefull active.
   
-#READ HERE!!
-  When you make a change in the "main.py" file, you must to click in one point of your terminal, and use the keyboard shortcut "CTRL + C" to stop the activity, and re-start again   this with "python main.py" command.
+---> READ HERE!!
+
+When you make a change in the "main.py" file, you must to click in one point of your terminal, and use the keyboard shortcut "CTRL + C" to stop the activity, and re-start again   this with "python main.py" command.
